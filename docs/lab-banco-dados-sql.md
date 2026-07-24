@@ -39,7 +39,7 @@ O **Modelo de Responsabilidade Compartilhada** define quem cuida de cada camada,
 ### 1️⃣ Acessando o Serviço de Banco de Dados SQL
 > O início é a tela de "Bancos de dados SQL" do Azure. Como não temos nenhum DB, a lista está vazia. Clicando em **+ Criar Banco de dados SQL** iniciamos o processo.
 
-![Tela Inicial do SQL do Azure](./images/tlini.png)
+![Tela Inicial do SQL do Azure](./images/lab-banco-dados-sql/tlini.png)
 
 ### 2️⃣ Configurações Iniciais do Projeto e do Banco
 > Na tela de criação, configuramos os detalhes essenciais:
@@ -47,7 +47,7 @@ O **Modelo de Responsabilidade Compartilhada** define quem cuida de cada camada,
 > * **Grupo de Recursos**: Criamos um novo grupo para organizar todos os recursos do projeto.
 > * **Nome do banco de dados**: Definimos um nome para o nosso DB.
 
-![Configurações iniciais do banco de dados](./images/crdb1.png)
+![Configurações iniciais do banco de dados](./images/lab-banco-dados-sql/crdb1.png)
 
 ### 3️⃣ Criação do Servidor
 > Ao clicar em "Criar novo" na seção “Servidor”, configuramos os detalhes:
@@ -55,22 +55,22 @@ O **Modelo de Responsabilidade Compartilhada** define quem cuida de cada camada,
 > * **Localização**: Escolhemos a região mais próxima para garantir baixa latência.
 > * **Autenticação**: Configuramos o método de autenticação e o administrador.
 
-![Criação do Servidor SQL](./images/inisrv.png)
+![Criação do Servidor SQL](./images/lab-banco-dados-sql/inisrv.png)
 
 ### 4️⃣ Ambiente e Redundância
 > De volta à tela principal, definimos o ambiente da carga de trabalho como **Desenvolvimento**, o que otimiza os custos. Em seguida, configuramos a redundância do backup.
 
-![Configuração do ambiente de desenvolvimento](./images/crdb2.png)
+![Configuração do ambiente de desenvolvimento](./images/lab-banco-dados-sql/crdb2.png)
 
 ### 5️⃣ Confirmação da Implantação
 > Após revisar tudo, o Azure provisiona os recursos. Esta tela confirma que a implantação foi **concluída com sucesso**, mostrando os recursos que foram criados.
 
-![Implantação concluída com sucesso](./images/dtlimp.png)
+![Implantação concluída com sucesso](./images/lab-banco-dados-sql/dtlimp.png)
 
 ### 6️⃣ Acessando o Banco de Dados
 > Com tudo pronto, acessamos o painel de controle do banco de dados. A "Visão Geral" mostra o status **Online** e fornece as cadeias de conexão para um aplicativo.
 
-![Painel de visão geral do banco de dados](./images/acssdb.png)
+![Painel de visão geral do banco de dados](./images/lab-banco-dados-sql/acesso-db.png)
 
 ---
 
