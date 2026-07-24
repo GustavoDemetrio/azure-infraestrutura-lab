@@ -35,17 +35,17 @@ Repositório contendo a documentação do que foi compreendido do curso até o m
 ## Capturas de Tela
 
 ### Criação da VM
-![Configuração inicial da VM](images/crc1.png)  
-![Configuração complementar](images/crc2.png)  
+![Configuração inicial da VM](../images/lab-maquinas-virtuais/crc1.png)  
+![Configuração complementar](../images/lab-maquinas-virtuais/crc2.png)  
 
 ### Máquina Virtual Pronta
-![Máquina criada - parte 1](images/maqpnt.png)  
-![Máquina criada - parte 2](images/maqpnt2.png)  
+![Máquina criada - parte 1](../images/lab-maquinas-virtuais/maqpnt.png)  
+![Máquina criada - parte 2](../images/lab-maquinas-virtuais/maqpnt2.png)  
 
 ### Rede e Segurança
-![Liberando apenas meu IP](images/lbrip.png)  
+![Liberando apenas meu IP](../images/lab-maquinas-virtuais/lbrip.png)  
 
 ### Conexão Remota
-![Acesso via RDP](images/cnxrdp.png)  
+![Acesso via RDP](../images/lab-maquinas-virtuais/cnxrdp.png)  
 
 ---
