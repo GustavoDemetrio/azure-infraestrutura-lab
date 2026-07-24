@@ -69,14 +69,14 @@ Exemplo de passo a passo ilustrativo, com dicas:
 
 ### Configuração de Rede
 ![Ícone de criação de Rede](../images/resumo-geral-az900/redes.png)
-![Configuração da Rede](../images/resumo-geral-az900/configrede.png)
+![Configuração da Rede](../images/resumo-geral-az900/config-rede.png)
 
 ### VM pronta no Bastion
-![VM conectada no Bastion](../images/resumo-geral-az900/vmpronta.png)
+![VM conectada no Bastion](../images/resumo-geral-az900/vm-pronta.png)
 
 ### Armazenamento
-![Conta de Armazenamento criada](../images/resumo-geral-az900/Storage.png)
-![Arquivos no Armazenamento](../images/resumo-geral-az900/arqstorage.png)
+![Conta de Armazenamento criada](../images/resumo-geral-az900/storage.png)
+![Arquivos no Armazenamento](../images/resumo-geral-az900/arq-storage.png)
 
 
 ## Conclusão
