@@ -13,15 +13,15 @@ Este projeto tem como objetivo criar uma infraestrutura básica na plataforma Mi
 
 **Imagem 1: Grupo de Recursos Criado**
 <br>
-<img src="images/1gprec.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/grupo-recursos-1.png" width="350" />
 <br>
-<img src="images/2gprec.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/grupo-recursos-2.png" width="350" />
 <br>
-<img src="images/3gprec.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/grupo-recursos-3.png" width="350" />
 <br>
-<img src="images/4gprec.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/grupo-recursos-.png" width="350" />
 <br>
-<img src="images/conc_gp_rec.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/conc-grupo-recursos.png" width="350" />
 <br>
 
 Lembre-se de nomear o grupo de recursos de acordo com a sua organização.
