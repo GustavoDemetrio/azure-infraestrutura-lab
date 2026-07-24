@@ -37,23 +37,23 @@ Lembre-se de nomear o grupo de recursos de acordo com a sua organização.
 
 **Imagem 2: Criação da VM**
 <br>
-<img src="images/1maqvirt.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/maq-virtual-1.png" width="350" />
 <br>
-<img src="images/2maqvirt.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/maq-virtual-2.png" width="350" />
 <br>
-<img src="images/3maqvirt.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/maq-virtual-3.png" width="350" />
 <br>
-<img src="images/4maqvirt.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/maq-virtual-4.png" width="350" />
 <br>
-<img src="images/5maqvirt.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/maq-virtual-5.png" width="350" />
 <br>
-<img src="images/6maqvirt.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/maq-virtual-6.png" width="350" />
 <br>
-<img src="images/validacao1.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/validacao-1.png" width="350" />
 <br>
-<img src="images/validacao2.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/validacao-2.png" width="350" />
 <br>
-<img src="images/validacao3.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/validacao-3.png" width="350" />
 <br>
 
 Na imagem acima, podemos ver o processo de criação da VM.
@@ -67,23 +67,23 @@ Na imagem acima, podemos ver o processo de criação da VM.
 
 **Imagem 3: Rede Virtual Criada**
 <br>
-<img src="images/iconesredes.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/icone-redes.png" width="350" />
 <br>
-<img src="images/criarrede.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/criar-rede-1.png" width="350" />
 <br>
-<img src="images/criar-rede.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/criar-rede-2.png" width="350" />
 <br>
-<img src="images/rede1.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/rede-1.png" width="350" />
 <br>
-<img src="images/rede2.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/rede-2.png" width="350" />
 <br>
-<img src="images/rede3.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/rede-3.png" width="350" />
 <br>
-<img src="images/rede4.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/rede-4.png" width="350" />
 <br>
-<img src="images/rede5.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/rede-5.png" width="350" />
 <br>
-<img src="images/redeconcluida.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/rede-concluida.png" width="350" />
 <br>
 
 Na imagem acima, a rede virtual foi criada com sucesso.
@@ -97,13 +97,13 @@ Na imagem acima, a rede virtual foi criada com sucesso.
 
 **Imagem 4: Armazenamento Criado**
 <br>
-<img src="images/armazenamento1.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/armazenamento-1.png" width="350" />
 <br>
-<img src="images/armazenamento2.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/armazenamento-2.png" width="350" />
 <br>
-<img src="images/armazenamento3.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/armazenamento-3.png" width="350" />
 <br>
-<img src="images/armazenamento4.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/armazenamento-4.png" width="350" />
 <br>
 
 ## Como Executar
