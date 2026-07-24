@@ -19,7 +19,7 @@ Este projeto tem como objetivo criar uma infraestrutura básica na plataforma Mi
 <br>
 <img src="../images/projeto-infraestrutura-basica/grupo-recursos-3.png" width="350" />
 <br>
-<img src="../images/projeto-infraestrutura-basica/grupo-recursos-.png" width="350" />
+<img src="../images/projeto-infraestrutura-basica/grupo-recursos-4.png" width="350" />
 <br>
 <img src="../images/projeto-infraestrutura-basica/conc-grupo-recursos.png" width="350" />
 <br>
